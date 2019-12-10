@@ -1,4 +1,5 @@
 {
+	"name" : "dungang/TaobaokeClient",
 	"keywords" : [
 		"Alimama  Taobaoke API"
 	],
@@ -17,5 +18,6 @@
 			"homepage" : "https://github.com/dungang",
 			"role" : "creator"
 		}
-	]
+	],
+	"description" : "The most concise taobaoke api client"
 }
