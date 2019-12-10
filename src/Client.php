@@ -7,7 +7,7 @@ namespace Dungang\TaobaokeClient;
  * @author dungang<dungang@126.com>
  * @since 2019年12月10日
  *       
- * @link https://open.taobao.com/api.htm?docId=24515&docType=2
+ * @link https://open.taobao.com/api.htm?docId=24517&docType=2
  *      
  * @method array taobaoTbkItemRecommendGet(array $params) 淘宝客商品关联推荐查询
  * @method array taobaoTbkItemInfoGet(array $params) 淘宝客商品详情（简版）
