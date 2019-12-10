@@ -1,0 +1,8 @@
+vendor
+composer.phar
+.project
+.buildpath
+.settings
+.idea
+.DS_Store
+.netbeans

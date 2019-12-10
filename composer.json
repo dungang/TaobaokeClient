@@ -1,0 +1,21 @@
+{
+	"keywords" : [
+		"Alimama  Taobaoke API"
+	],
+	"autoload" : {
+		"psr-4" : {
+			"Dungang\\TaobaokeClient\\" : "src"
+		}
+	},
+	"license" : "MIT",
+	"require" : {
+		"php" : ">=5.3"
+	},
+	"authors" : [{
+			"name" : "dungang",
+			"email" : "dungang@126.com",
+			"homepage" : "https://github.com/dungang",
+			"role" : "creator"
+		}
+	]
+}
