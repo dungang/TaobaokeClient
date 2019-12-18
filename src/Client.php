@@ -117,6 +117,15 @@ namespace Dungang\TaobaokeClient;
  * @method array taobaoTbkDgVegasTljInstanceReport( array $params )
  * 淘礼金引导的效果报表,默认可申请，但需先申请淘礼金权限才可使用API
  * 
+  * @method array taobaoTbkJuTqgGet( array $params )
+ * 获取淘抢购的数据，淘客商品转淘客链接，非淘客商品输出普通链接
+ * 此接口并不在官方功能申请的列表中，但是可以用
+ * 
+  * @method array taobaoJuItemsSearch( array $params )
+ * 聚划算商品搜索接口。此接口不在官方的功能申请列表中，可以调用但是一直没有结果
+ * 文档提示默认可以使用
+ * 提示 App Call Limited[This ban will last for 22238 more seconds
+ * 先放着，也许可以用，不确定
  */
 class Client
 {
