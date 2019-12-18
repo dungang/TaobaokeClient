@@ -5,7 +5,7 @@
 ## 安装
 
 ```sh
-composer requre dungang/taobaoke-client
+composer require dungang/taobaoke-client
 
 ```
 
