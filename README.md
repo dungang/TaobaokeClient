@@ -23,6 +23,7 @@ composer require dungang/taobaoke-client
 
 * 只用传递业务参数
 * 方法参数不用传递，客户端自动识别，比如 获取商品详情的api为taobao.tbk.item.info.get,则执行的方法就是为taobaoTbkItemInfoGet
+* 接口中的true和false都必须字符串，如：`'true'` `'false'` 而不是 `true` `false`
 
 ```php
 $client = new Client('你的APP_KEY', '你的APP_SECRET');
